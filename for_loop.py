@@ -17,6 +17,9 @@
 # for i in range(2,1):
 #     print("Hello")
 
+# Print star shape
+# for i in range(1,4):
+#     print(i*"*")
 
 
 # A short program whose task is to write some of the first powers of two:
@@ -25,3 +28,4 @@
 # for expo in range(16):
 #     print("2 to the power of" ,expo,"is",power)
 #     power *=2
+
